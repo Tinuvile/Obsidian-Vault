@@ -1,0 +1,7 @@
+time {
+    color: #FFFBF0 ; /*象牙白*/
+    background-color: #549688; /* 背景 铜绿 #40bfaf;*/
+    padding: 1px 6px;
+	font-weight: bold;
+    box-shadow: 5px 5px var(--outline) ;
+}

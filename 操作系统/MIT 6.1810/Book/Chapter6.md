@@ -41,7 +41,7 @@ push (int data)
 
 这段代码如果在没有`lock`的情况下，两个CPU同时执行`push`，就可能出现错误：
 
-![](C:\Users\ASUS\AppData\Roaming\marktext\images\2025-05-06-15-24-18-image.png)
+![](../image/2025-05-06-15-24-18-image.png)
 
 把`acquire`与`release`之间的指令序列称为**critical section**，锁在这里用来保护`list`。
 
@@ -172,7 +172,7 @@ release(struct spinlock *lk)
 
 总之，锁粒度的决策需要由性能和复杂性考虑两方面来驱动。下图列出了`xv6`中的所有锁。
 
-![](C:\Users\ASUS\AppData\Roaming\marktext\images\2025-05-06-17-17-44-image.png)
+![](../image/2025-05-06-17-17-44-image.png)
 
 ---
 

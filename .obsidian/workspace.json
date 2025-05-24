@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 208.5
   },
   "right": {
     "id": "01266a0022f8bab2",
@@ -196,11 +196,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 449.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -223,13 +223,14 @@
   },
   "active": "7c25b486994528c1",
   "lastOpenFiles": [
+    "计划/2025/5-6月/未命名思维导图.md",
+    "计划/2025/5-6月/近期计划.md",
     "操作系统/MIT 6.1810/Book/Chapter7.md",
     "OSPP/项目运行.md",
     "OSPP/Good-first-issue/参数校验/代码阅读.md",
     "OSPP/Good-first-issue/参数校验/Try.md",
     "OSPP/Good-first-issue/参数校验/问题.md",
     "操作系统/MIT 6.1810/Book/Chapter6.md",
-    "计划/2025/5-6月/近期计划.md",
     "2025-05-21.md",
     "202505212330.md",
     "计划/2025/5-6月",
@@ -261,7 +262,6 @@
     "OSPP",
     "操作系统/课程项目/电梯调度系统.md",
     "操作系统/课程项目/电梯调度系统",
-    "数据库/数据库课程设计/第二次开会记录.md",
     "计算机网络/image/Pasted image 20250513091100.png",
     "计算机网络/image/Pasted image 20250513090033.png",
     "计算机网络/image/Pasted image 20250513084910.png",

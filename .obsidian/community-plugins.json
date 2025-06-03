@@ -12,5 +12,7 @@
   "obsidian-plantuml",
   "obsidian-kanban",
   "obsidian-mind-map",
-  "obsidian-markmind"
+  "obsidian-markmind",
+  "marp-slides",
+  "obsidian-timeline"
 ]

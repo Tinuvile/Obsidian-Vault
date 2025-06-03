@@ -301,8 +301,6 @@ struct sleeplock {
   char *name;        // Name of lock.
   int pid;           // Process holding lock
 };
-
-
 ```
 
 `acquiresleep`在等待时让出CPU，使用的技术在第七章解释。睡眠锁有一个由自旋锁保护的`locked`字段，`acquiresleep`调用`sleep`原子地让出CPU并释放自旋锁。这样在它等待时，其他线程就可以执行了。

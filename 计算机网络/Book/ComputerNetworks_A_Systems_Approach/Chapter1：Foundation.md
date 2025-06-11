@@ -13,11 +13,17 @@
 ### Classes of Applications
 
 最基础的应用自然是浏览器页面。在表层的浏览器页面下，页面上的每个可选对象都绑定着一个标识符，指向下一个待查看的页面或对象，它被称为统一资源定位符*URL*，它为浏览器中所有可查看对象提供了识别方式。例如：
+
 ```html
 http://www.cs.princeton.edu/~llp/index.html
 ```
+
 这个 URL 中，`http`表示使用超文本传输协议*HTTP*下载该页面，`www.cs.princeton.edu`是托管该页面的服务器名称，`~llp/index.html`则标识了 Larry 在该网站的主页。
-在点击这样一个 URL 的过程中，互联网上就进行了多次消息交换：最多六条消息用于将服务器名称`www.cs.princeton.edu`转换为其 IP（Internet Protocol）地址`128.112.136.35`；三条消息用于在浏览器与该服务器之间建立 TCP（Transmission Control Protocol）协议；四条消息用于浏览器发送 HTTP “GET” 请求以及服务器返回所请求的页面、以及双方确认收到消息；四条消息用于关闭 TCP 连接。
+
+在点击这样一个 URL 的过程中，互联网上就进行了多次消息交换：
+- 最多六条消息用于将服务器名称`www.cs.princeton.edu`转换为其 IP（Internet Protocol）地址`128.112.136.35`；
+- 三条消息用于在浏览器与该服务器之间建立 TCP（Transmission Control Protocol）协议；
+- 四条消息用于浏览器发送 HTTP “GET” 请求以及服务器返回所请求的页面、以及双方确认收到消息；四条消息用于关闭 TCP 连接。
 
 互联网的另一个广泛应用是流式音频和视频的传输。它们与传统文本、图形与图像传输不同，接收方会在数据到达的同时就开始播放，而非先下载整个文件，但播放仍然需要保持连贯性。这会影响网络如何支持这类应用。
 

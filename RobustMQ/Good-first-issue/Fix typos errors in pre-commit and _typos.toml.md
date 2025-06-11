@@ -87,3 +87,23 @@
 - `src/protocol/src/mqtt/mqttv5/publish.rs`
 
 close #1053
+
+## What's changed and what's your intention?
+
+**MQTT Packet Metric Constant Typos**: 
+- `PACKETS_SUBSCRIBLE_RECEIVED` → `PACKETS_SUBSCRIBE_RECEIVED` 
+- `PACKETS_UNSUBSCRIBLE_RECEIVED` → `PACKETS_UNSUBSCRIBE_RECEIVED` 
+**Variable/Module Naming Improvements**: 
+- In MQTT v5 protocol: `typ` → `content_type_value` (more descriptive) 
+- In Raft module: `mod typ` → `mod types` (complies with Rust naming conventions) 
+**Configuration Cleanup**: 
+- Updated `_typos.toml` to remove ignore rules for already-fixed typos 
+## Checklist
+
+- [x] I have written the necessary rustdoc comments. ✅ 2025-06-04
+- [x] I have added the necessary unit tests and integration tests. ✅ 2025-06-04
+- [x] This PR does not require documentation updates. ✅ 2025-06-04
+
+## Refer to a related PR or issue link
+
+close #1053

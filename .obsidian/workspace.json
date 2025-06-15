@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "近期计划"
             }
-          },
-          {
-            "id": "ef65c6c4c17cf9d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "计算机网络/Book/ComputerNetworks_A_Systems_Approach/Chapter1：Foundation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Chapter1：Foundation"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -249,53 +234,55 @@
       "marp-slides:Show Slide Preview": false
     }
   },
-  "active": "ef65c6c4c17cf9d0",
+  "active": "ad3d1be0b768ff3e",
   "lastOpenFiles": [
+    "算法/题目文档4.md",
+    "算法/Drawing 2025-06-13 21.24.40.excalidraw.md",
+    "算法/题目文档 3.md",
+    "操作系统/MIT 6.1810/Book/Chapter8.md",
     "计划/2025/5-6月/近期计划.md",
+    "屏幕截图 2025-06-13 011523.png",
+    "屏幕截图 2025-06-13 011710.png",
+    "人工智能导论第四次作业报告.md",
+    "屏幕截图 2025-06-13 163241.png",
+    "屏幕截图 2025-06-13 160359 1.png",
+    "屏幕截图 2025-06-13 155505 1.png",
+    "屏幕截图 2025-06-13 163451.png",
+    "屏幕截图 2025-06-13 163436.png",
+    "屏幕截图 2025-06-13 160359.png",
+    "屏幕截图 2025-06-13 155505.png",
+    "屏幕截图 2025-06-13 012247.png",
+    "image",
+    "报告.md",
+    "操作系统/MIT 6.1810/Book/Chapter7.md",
+    "操作系统/MIT 6.1810/Book/Chapter6.md",
+    "操作系统/MIT 6.1810/Book/Chapter5.md",
+    "操作系统/MIT 6.1810/Book/Chapter4.md",
+    "操作系统/MIT 6.1810/Book/Chapter3.md",
+    "操作系统/MIT 6.1810/Book/Chapter2.md",
+    "操作系统/MIT 6.1810/Book/Chapter1.md",
+    "操作系统/MIT 6.1810/Lecture/Lec13.md",
+    "算法/算法复习.md",
+    "计划/2025/暑期计划.md",
+    "计算机网络/Book/ComputerNetworks_A_Systems_Approach/笔记.canvas",
+    "计算机网络/Book/ComputerNetworks_A_Systems_Approach/Chapter1：Foundation.md",
     "RobustMQ/学习资料.md",
     "Rust学习/Rust基础入门.canvas",
     "操作系统/MIT 6.1810/Lecture/Lec11.md",
-    "操作系统/MIT 6.1810/Lecture/Lec13.md",
     "操作系统/MIT 6.1810/Excalidraw/Drawing 2025-06-11 14.04.11.excalidraw.md",
     "操作系统/MIT 6.1810/Excalidraw/Drawing 2025-06-11 14.03.48.excalidraw.md",
     "Excalidraw/Drawing 2025-06-11 02.58.31.excalidraw.md",
     "操作系统/MIT 6.1810/Excalidraw/Drawing 2025-06-10 17.52.34.excalidraw.md",
-    "操作系统/MIT 6.1810/Book/Chapter2.md",
-    "操作系统/MIT 6.1810/Book/Chapter3.md",
-    "操作系统/MIT 6.1810/Book/Chapter4.md",
     "操作系统/MIT 6.1810/Excalidraw/Drawing 2025-06-10 17.00.16.excalidraw.md",
     "操作系统/MIT 6.1810/Excalidraw/Drawing 2025-06-10 16.29.43.excalidraw.md",
-    "操作系统/MIT 6.1810/Excalidraw/Drawing 2025-06-10 16.19.01.excalidraw.md",
-    "算法/算法复习.md",
-    "Rust学习/Excalidraw/Rust数据类型.md",
-    "Rust学习/Excalidraw/位运算.md",
-    "Rust学习/Excalidraw/位运算.md",
-    "Rust学习/Excalidraw/Rust数据类型思维导图.excalidraw.md",
-    "Rust学习/Excalidraw/Drawing 2025-06-09 20.17.51.excalidraw.md",
-    "Rust学习/Excalidraw/类型.md",
     "Rust学习/Excalidraw",
-    "Excalidraw/Drawing 2025-06-09 19.26.31.excalidraw.md",
     "Rust学习",
-    "RobustMQ/Good-first-issue/Refactor amin.rs in mqtt-borker.md",
-    "RobustMQ/Good-first-issue/Revisit use of clone(), to_string(), and to_owned().md",
-    "操作系统/MIT 6.1810/Book/Chapter7.md",
     "RobustMQ/准备",
     "RobustMQ/Excalidraw",
-    "算法/Pasted image 20250602022402.png",
     "算法",
     "人工智能导论Lab3.pdf",
     "人工智能导论Lab3.pptx",
     "人工智能导论Lab3.html",
-    "操作系统/MIT 6.1810/image/Pasted image 20250528134153.png",
-    "Excalidraw",
-    "计划/2025/5-6月",
-    "数据库/数据库课程设计/Excalidraw/Untitled Diagram_2025-05-15T18_09_51.158Z.png",
-    "Untitled Diagram_2025-05-15T17_42_59.400Z.png",
-    "数据库/数据库课程设计/Excalidraw/Untitled Diagram_2025-05-15T17_53_36.186Z.png",
-    "计算机网络/image/Pasted image 20250513091100.png",
-    "计算机网络/image/Pasted image 20250513090033.png",
-    "计算机网络/image/Pasted image 20250513084910.png",
-    "计算机网络/image/Pasted image 20250513083740.png",
-    "计算机网络/CS 144/image/2025-04-22-19-45-39-image.png"
+    "Excalidraw"
   ]
 }

@@ -268,7 +268,7 @@ uartstart()
 
 定时器中断必须在`machine mode`下处理。这种模式在没有分页的情况下执行，使用一组独立的控制寄存器。因此定时器中断的处理机制与其他的`trap`处理机制完全独立。
 
-> 不是太懂，代码中是直接把所有异常和中断都委托给了 supervisor mode。
+> [!note] 不是太懂，代码中是直接把所有异常和中断都委托给了 supervisor mode。 
 > 
 > ```c
 > // delegate all interrupts and exceptions to supervisor mode.
